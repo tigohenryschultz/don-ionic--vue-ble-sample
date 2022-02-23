@@ -1,0 +1,9 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Don Cordova BLE Ionic Sample",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://10.9.1.17:8100"
+	}
+}

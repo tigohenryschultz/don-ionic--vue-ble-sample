@@ -1,0 +1,7 @@
+{
+  "name": "Don Cordova BLE Ionic Sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
